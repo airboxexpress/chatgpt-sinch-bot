@@ -1,0 +1,9 @@
+# Ignorar archivo de variables de entorno
+.env
+
+# Ignorar node_modules (dependencias)
+node_modules/
+
+# Ignorar archivos de log y temporales
+*.log
+.DS_Store
